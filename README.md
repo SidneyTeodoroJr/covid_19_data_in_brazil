@@ -32,12 +32,12 @@
  - <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">REPOSITÓRIO DA JOHNS HOPKINS UNIVERSITY</a>
 </p>
 </br>
-</br>
 
 ## Contributions
 
 <p>
-Contributions are welcome! If you want to improve facial detection, add new features, or fix issues, feel free to submit a pull request. </br>If you encounter any problems or have any suggestions for improvement, you can contact me through my profile on <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> or through my social networks listed below.
+Contribuições são bem-vindas! 
+</br>Se você encontrar algum problema ou tiver alguma sugestão de melhoria, entre em contato comigo através do meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> ou através das minhas redes sociais listadas abaixo.
 </p>
 
 <hr>
